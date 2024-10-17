@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TextBox
+  - User
+  - textLock
+  - TextRigid
+  - textHold
+  - topLock
+  - wordStore
+  - temp
+  - buttonManager
+  - destroy
+  - textBoxCollider
+  - undoHandler
+  - MainCanvas
+  - lockTimer
+  - holdTimer
+  - topTimer
+  - fixedInPlace
+  - debug
+  - debug2
+  - control
+  - finishHandler
+  - responseMutation
+  - destroyTimer
+  - virtualLeft
+  - virtualRight
+  - virtualFloor
+  - rowUserCount
+  - responseUpdate
+  - responseManager
+  - settingsTab
+  - maxResponseUpdate
+  - selectedContainer
+  - selected
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Collider
+  - Water
+  - UI
+  - Quad
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
